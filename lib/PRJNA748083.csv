@@ -1,0 +1,107 @@
+Run,BioSample,geo_loc_name_country_continent,geo_loc_name,Lat_Lon,Library Name,Organism,ReleaseDate,REPLICATE
+SRR15198087,SAMN20296505,Surface,1213.0,Chihuahuan Desert,Moss Biocrust 4,USA: White Sands National Park,32.73 N 106.22 W,WHSMO4,Rep 4
+SRR15198088,SAMN20296504,Surface,1213.0,Chihuahuan Desert,Moss Biocrust 3,USA: White Sands National Park,32.73 N 106.22 W,WHSMO3,Rep 3
+SRR15198089,SAMN20296503,Surface,1213.0,Chihuahuan Desert,Moss Biocrust 2,USA: White Sands National Park,32.73 N 106.22 W,WHSMO2,Rep 2
+SRR15198090,SAMN20296502,Surface,1213.0,Chihuahuan Desert,Moss Biocrust 1,USA: White Sands National Park,32.73 N 106.22 W,WHSMO1,Rep 1
+SRR15198091,SAMN20296501,Surface,1213.0,Chihuahuan Desert,Moss Biocrust 03,USA: White Sands National Park,32.73 N 106.22 W,WHSMO00,Rep 3 Duplicate
+SRR15198092,SAMN20296500,Surface,1213.0,Chihuahuan Desert,Moss Biocrust 01,USA: White Sands National Park,32.73 N 106.22 W,WHSMO0,Rep 1 Duplicate
+SRR15198093,SAMN20296499,Surface,1213.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 5,USA: White Sands National Park,32.73 N 106.22 W,WHSLA5,Rep 5
+SRR15198094,SAMN20296498,Surface,1213.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 4,USA: White Sands National Park,32.73 N 106.22 W,WHSLA4,Rep 4
+SRR15198095,SAMN20296497,Surface,1213.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 3,USA: White Sands National Park,32.73 N 106.22 W,WHSLA3,Rep 3
+SRR15198096,SAMN20296496,Surface,1213.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 2,USA: White Sands National Park,32.73 N 106.22 W,WHSLA2,Rep 2
+SRR15198097,SAMN20296415,Surface,1296.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 5,USA: Tortugas Mountain,32.30 N 106.70 W,AMTDA5,Rep 5
+SRR15198098,SAMN20296495,Surface,1213.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 1,USA: White Sands National Park,32.73 N 106.22 W,WHSLA1,Rep 1
+SRR15198099,SAMN20296494,Surface,1213.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 5,USA: White Sands National Park,32.73 N 106.22 W,WHSDA5,Rep 5
+SRR15198100,SAMN20296493,Surface,1213.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 4,USA: White Sands National Park,32.73 N 106.22 W,WHSDA4,Rep 4
+SRR15198101,SAMN20296492,Surface,1213.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 3,USA: White Sands National Park,32.73 N 106.22 W,WHSDA3,Rep 3
+SRR15198102,SAMN20296491,Surface,1213.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 2,USA: White Sands National Park,32.73 N 106.22 W,WHSDA2,Rep 2
+SRR15198103,SAMN20296490,Surface,1213.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 1,USA: White Sands National Park,32.73 N 106.22 W,WHSDA1,Rep 1
+SRR15198104,SAMN20296489,Surface,1213.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 5,USA: White Sands National Park,32.73 N 106.22 W,WHSCL5,Rep 5
+SRR15198105,SAMN20296488,Surface,1213.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 4,USA: White Sands National Park,32.73 N 106.22 W,WHSCL4,Rep 4
+SRR15198106,SAMN20296487,Surface,1213.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 3,USA: White Sands National Park,32.73 N 106.22 W,WHSCL3,Rep 3
+SRR15198107,SAMN20296486,Surface,1213.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 2,USA: White Sands National Park,32.73 N 106.22 W,WHSCL2,Rep 2
+SRR15198108,SAMN20296414,Surface,1296.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 4,USA: Tortugas Mountain,32.30 N 106.70 W,AMTDA4,Rep 4
+SRR15198109,SAMN20296485,Surface,1213.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 1,USA: White Sands National Park,32.73 N 106.22 W,WHSCL1,Rep 1
+SRR15198110,SAMN20296484,Surface,1307.0,Chihuahuan Desert,Peltula Lichen Biocrust 5,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLPT5,Rep 5
+SRR15198111,SAMN20296483,Surface,1307.0,Chihuahuan Desert,Peltula Lichen Biocrust 4,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLPT4,Rep 4
+SRR15198112,SAMN20296482,Surface,1307.0,Chihuahuan Desert,Peltula Lichen Biocrust 3,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLPT3,Rep 3
+SRR15198113,SAMN20296481,Surface,1307.0,Chihuahuan Desert,Peltula Lichen Biocrust 2,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLPT2,Rep 2
+SRR15198114,SAMN20296480,Surface,1307.0,Chihuahuan Desert,Peltula Lichen Biocrust 1,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLPT1,Rep 1
+SRR15198115,SAMN20296479,Surface,1307.0,Chihuahuan Desert,Peltula Lichen Biocrust 03,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLPT0,Rep 3 Duplicate
+SRR15198116,SAMN20296478,Surface,1307.0,Chihuahuan Desert,Moss Biocrust 5,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLMO5,Rep 5
+SRR15198117,SAMN20296477,Surface,1307.0,Chihuahuan Desert,Moss Biocrust 4,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLMO4,Rep 4
+SRR15198118,SAMN20296476,Surface,1307.0,Chihuahuan Desert,Moss Biocrust 3,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLMO3,Rep 3
+SRR15198119,SAMN20296413,Surface,1296.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 3,USA: Tortugas Mountain,32.30 N 106.70 W,AMTDA3,Rep 3
+SRR15198120,SAMN20296475,Surface,1307.0,Chihuahuan Desert,Moss Biocrust 2,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLMO2,Rep 2
+SRR15198121,SAMN20296474,Surface,1307.0,Chihuahuan Desert,Moss Biocrust 1,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLMO1,Rep 1
+SRR15198122,SAMN20296473,Surface,1307.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 5,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLLA5,Rep 5
+SRR15198123,SAMN20296472,Surface,1307.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 4,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLLA4,Rep 4
+SRR15198124,SAMN20296471,Surface,1307.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 3,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLLA3,Rep 3
+SRR15198125,SAMN20296470,Surface,1307.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 2,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLLA2,Rep 2
+SRR15198126,SAMN20296469,Surface,1307.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 1,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLLA1,Rep 1
+SRR15198127,SAMN20296468,Surface,1307.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 5,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLDA5,Rep 5
+SRR15198128,SAMN20296467,Surface,1307.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 4,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLDA4,Rep 4
+SRR15198129,SAMN20296466,Surface,1307.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 3,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLDA3,Rep 3
+SRR15198130,SAMN20296412,Surface,1296.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 2,USA: Tortugas Mountain,32.30 N 106.70 W,AMTDA2,Rep 2
+SRR15198131,SAMN20296465,Surface,1307.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 2,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLDA2,Rep 2
+SRR15198132,SAMN20296464,Surface,1307.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 1,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLDA1,Rep 1
+SRR15198133,SAMN20296463,Surface,1307.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 5,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLCL5,Rep 5
+SRR15198134,SAMN20296462,Surface,1307.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 4,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLCL4,Rep 4
+SRR15198135,SAMN20296461,Surface,1307.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 3,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLCL3,Rep 3
+SRR15198136,SAMN20296460,Surface,1307.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 2,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLCL2,Rep 2
+SRR15198137,SAMN20296459,Surface,1307.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 1,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLCL1,Rep 1
+SRR15198138,SAMN20296458,Surface,1307.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 04,USA: Portrillo Basalt Field,32.11 N 107.02 W,VOLCL0,Rep 4 Duplicate
+SRR15198139,SAMN20296457,Surface,1313.0,Chihuahuan Desert,Peltula Lichen Biocrust 5,USA: Jornada LTER,32.51 N 106.74 W,JERPT5,Rep 5
+SRR15198140,SAMN20296456,Surface,1313.0,Chihuahuan Desert,Peltula Lichen Biocrust 4,USA: Jornada LTER,32.51 N 106.74 W,JERPT4,Rep 4
+SRR15198141,SAMN20296411,Surface,1296.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 1,USA: Tortugas Mountain,32.30 N 106.70 W,AMTDA1,Rep 1
+SRR15198142,SAMN20296455,Surface,1313.0,Chihuahuan Desert,Peltula Lichen Biocrust 3,USA: Jornada LTER,32.51 N 106.74 W,JERPT3,Rep 3
+SRR15198143,SAMN20296454,Surface,1313.0,Chihuahuan Desert,Peltula Lichen Biocrust 2,USA: Jornada LTER,32.51 N 106.74 W,JERPT2,Rep 2
+SRR15198144,SAMN20296453,Surface,1313.0,Chihuahuan Desert,Peltula Lichen Biocrust 1,USA: Jornada LTER,32.51 N 106.74 W,JERPT1,Rep 1
+SRR15198145,SAMN20296452,Surface,1313.0,Chihuahuan Desert,Moss Biocrust 5,USA: Jornada LTER,32.51 N 106.74 W,JERMO5,Rep 5
+SRR15198146,SAMN20296451,Surface,1313.0,Chihuahuan Desert,Moss Biocrust 4,USA: Jornada LTER,32.51 N 106.74 W,JERMO4,Rep 4
+SRR15198147,SAMN20296450,Surface,1313.0,Chihuahuan Desert,Moss Biocrust 3,USA: Jornada LTER,32.51 N 106.74 W,JERMO3,Rep 3
+SRR15198148,SAMN20296449,Surface,1313.0,Chihuahuan Desert,Moss Biocrust 2,USA: Jornada LTER,32.51 N 106.74 W,JERMO2,Rep 2
+SRR15198149,SAMN20296448,Surface,1313.0,Chihuahuan Desert,Moss Biocrust 1,USA: Jornada LTER,32.51 N 106.74 W,JERMO1,Rep 1
+SRR15198150,SAMN20296447,Surface,1313.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 5,USA: Jornada LTER,32.51 N 106.74 W,JERLA5,Rep 5
+SRR15198151,SAMN20296446,Surface,1313.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 4,USA: Jornada LTER,32.51 N 106.74 W,JERLA4,Rep 4
+SRR15198152,SAMN20296410,Surface,1296.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 5,USA: Tortugas Mountain,32.30 N 106.70 W,AMTCL5,Rep 5
+SRR15198153,SAMN20296445,Surface,1313.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 3,USA: Jornada LTER,32.51 N 106.74 W,JERLA3,Rep 3
+SRR15198154,SAMN20296444,Surface,1313.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 2,USA: Jornada LTER,32.51 N 106.74 W,JERLA2,Rep 2
+SRR15198155,SAMN20296443,Surface,1313.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 1,USA: Jornada LTER,32.51 N 106.74 W,JERLA1,Rep 1
+SRR15198156,SAMN20296442,Surface,1313.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 5,USA: Jornada LTER,32.51 N 106.74 W,JERDA5,Rep 5
+SRR15198157,SAMN20296441,Surface,1313.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 4,USA: Jornada LTER,32.51 N 106.74 W,JERDA4,Rep 4
+SRR15198158,SAMN20296440,Surface,1313.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 3,USA: Jornada LTER,32.51 N 106.74 W,JERDA3,Rep 3
+SRR15198159,SAMN20296439,Surface,1313.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 2,USA: Jornada LTER,32.51 N 106.74 W,JERDA2,Rep 2
+SRR15198160,SAMN20296438,Surface,1313.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 1,USA: Jornada LTER,32.51 N 106.74 W,JERDA1,Rep 1
+SRR15198161,SAMN20296437,Surface,1313.0,Chihuahuan Desert,Dark Cyanobacterial Biocrust 02,USA: Jornada LTER,32.51 N 106.74 W,JERDA0,Rep 2 Duplicate
+SRR15198162,SAMN20296436,Surface,1313.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 5,USA: Jornada LTER,32.51 N 106.74 W,JERCL5,Rep 5
+SRR15198163,SAMN20296409,Surface,1296.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 4,USA: Tortugas Mountain,32.30 N 106.70 W,AMTCL4,Rep 4
+SRR15198164,SAMN20296435,Surface,1313.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 4,USA: Jornada LTER,32.51 N 106.74 W,JERCL4,Rep 4
+SRR15198165,SAMN20296434,Surface,1313.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 3,USA: Jornada LTER,32.51 N 106.74 W,JERCL3,Rep 3
+SRR15198166,SAMN20296433,Surface,1313.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 2,USA: Jornada LTER,32.51 N 106.74 W,JERCL2,Rep 2
+SRR15198167,SAMN20296432,Surface,1313.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 1,USA: Jornada LTER,32.51 N 106.74 W,JERCL1,Rep 1
+SRR15198168,SAMN20296431,Surface,1296.0,Chihuahuan Desert,Peltula Lichen Biocrust 5,USA: Tortugas Mountain,32.30 N 106.70 W,AMTPT5,Rep 5
+SRR15198169,SAMN20296430,Surface,1296.0,Chihuahuan Desert,Peltula Lichen Biocrust 4,USA: Tortugas Mountain,32.30 N 106.70 W,AMTPT4,Rep 4
+SRR15198170,SAMN20296429,Surface,1296.0,Chihuahuan Desert,Peltula Lichen Biocrust 3,USA: Tortugas Mountain,32.30 N 106.70 W,AMTPT3,Rep 3
+SRR15198171,SAMN20296428,Surface,1296.0,Chihuahuan Desert,Peltula Lichen Biocrust 2,USA: Tortugas Mountain,32.30 N 106.70 W,AMTPT2,Rep 2
+SRR15198172,SAMN20296427,Surface,1296.0,Chihuahuan Desert,Peltula Lichen Biocrust 1,USA: Tortugas Mountain,32.30 N 106.70 W,AMTPT1,Rep 1
+SRR15198173,SAMN20296426,Surface,1296.0,Chihuahuan Desert,Peltula Lichen Biocrust 05,USA: Tortugas Mountain,32.30 N 106.70 W,AMTPT0,Rep 5 Duplicate
+SRR15198174,SAMN20296408,Surface,1296.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 3,USA: Tortugas Mountain,32.30 N 106.70 W,AMTCL3,Rep 3
+SRR15198175,SAMN20296425,Surface,1296.0,Chihuahuan Desert,Moss Biocrust 5,USA: Tortugas Mountain,32.30 N 106.70 W,AMTMO5,Rep 5
+SRR15198176,SAMN20296424,Surface,1296.0,Chihuahuan Desert,Moss Biocrust 4,USA: Tortugas Mountain,32.30 N 106.70 W,AMTMO4,Rep 4
+SRR15198177,SAMN20296423,Surface,1296.0,Chihuahuan Desert,Moss Biocrust 3,USA: Tortugas Mountain,32.30 N 106.70 W,AMTMO3,Rep 3
+SRR15198178,SAMN20296422,Surface,1296.0,Chihuahuan Desert,Moss Biocrust 2,USA: Tortugas Mountain,32.30 N 106.70 W,AMTMO2,Rep 2
+SRR15198179,SAMN20296421,Surface,1296.0,Chihuahuan Desert,Moss Biocrust 1,USA: Tortugas Mountain,32.30 N 106.70 W,AMTMO1,Rep 1
+SRR15198180,SAMN20296420,Surface,1296.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 5,USA: Tortugas Mountain,32.30 N 106.70 W,AMTLA5,Rep 5
+SRR15198181,SAMN20296419,Surface,1296.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 4,USA: Tortugas Mountain,32.30 N 106.70 W,AMTLA4,Rep 4
+SRR15198182,SAMN20296418,Surface,1296.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 3,USA: Tortugas Mountain,32.30 N 106.70 W,AMTLA3,Rep 3
+SRR15198183,SAMN20296417,Surface,1296.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 2,USA: Tortugas Mountain,32.30 N 106.70 W,AMTLA2,Rep 2
+SRR15198184,SAMN20296511,Surface,1213.0,Chihuahuan Desert,Peltula Lichen Biocrust 5,USA: White Sands National Park,32.73 N 106.22 W,WHSPT5,Rep 5
+SRR15198185,SAMN20296510,Surface,1213.0,Chihuahuan Desert,Peltula Lichen Biocrust 4,USA: White Sands National Park,32.73 N 106.22 W,WHSPT4,Rep 4
+SRR15198186,SAMN20296509,Surface,1213.0,Chihuahuan Desert,Peltula Lichen Biocrust 3,USA: White Sands National Park,32.73 N 106.22 W,WHSPT3,Rep 3
+SRR15198187,SAMN20296508,Surface,1213.0,Chihuahuan Desert,Peltula Lichen Biocrust 2,USA: White Sands National Park,32.73 N 106.22 W,WHSPT2,Rep 2
+SRR15198188,SAMN20296507,Surface,1213.0,Chihuahuan Desert,Peltula Lichen Biocrust 1,USA: White Sands National Park,32.73 N 106.22 W,WHSPT1,Rep 1
+SRR15198189,SAMN20296506,Surface,1213.0,Chihuahuan Desert,Moss Biocrust 5,USA: White Sands National Park,32.73 N 106.22 W,WHSMO5,Rep 5
+SRR15198190,SAMN20296416,Surface,1296.0,Chihuahuan Desert,Light Cyanobaterial Biocrust 1,USA: Tortugas Mountain,32.30 N 106.70 W,AMTLA1,Rep 1
+SRR15198191,SAMN20296407,Surface,1296.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 2,USA: Tortugas Mountain,32.30 N 106.70 W,AMTCL2,Rep 2
+SRR15198192,SAMN20296406,Surface,1296.0,Chihuahuan Desert,Clavascidium Lichen Biocrust 1,USA: Tortugas Mountain,32.30 N 106.70 W,AMTCL1,Rep 1
